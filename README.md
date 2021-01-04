@@ -1,4 +1,4 @@
-## Hola, I'm Priyanka Mali!👋 
+## Hello, I'm Priyanka Mali!👋 
 - 💻 Engineer
 - 💪🏻 I’m currently working on developing my programming skills.
 - 🐍 I’m currently learning PYTHON Programming.
