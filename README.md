@@ -6,4 +6,4 @@
 - 😄 I am fun loving and positive person.
 - 😂 Fun Fact: I spend my half the day on Youtube, Netflix, Voot and Amazon.
 
-[![Priyanka's github stats](https://github-readme-stats.vercel.app/api?username=PriyankaMali-13)](https://github.com/PriyankaMali-13/github-readme-stats)
+[![Priyanka's github stats](https://github-readme-stats.vercel.app/api?username=PriyankaMali-13&show_icons=true&theme=radical)](https://github.com/PriyankaMali-13/github-readme-stats)
