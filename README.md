@@ -1,5 +1,5 @@
 ## Hello, I'm Priyanka Mali!👋 
-- 💻 Engineer
+- 💻 Software Engineer
 - 💪🏻 I’m currently working on developing my programming skills.
 - 🐍 I’m currently learning PYTHON Programming.
 - 🙏🏻 I believe in Sadguru Shree Aniruddha Bapu. #Blessedbybapu
