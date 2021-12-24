@@ -3,7 +3,7 @@ stages:
   jobs:
   - job: Build
     pool:
-      vmImage: 'Ubuntu-16.04'
+      vmImage: 'windows-latest'
     continueOnError: true
     steps:
     - script: echo "hello to my first Build"
@@ -11,7 +11,7 @@ stages:
   jobs:
   - deployment: dev_deploy
     pool:
-      vmImage: 'Ubuntu-16.04'
+      vmImage: 'windows-latest'
     environment: 'dev-hello'
     strategy:
       runOnce:
@@ -22,7 +22,7 @@ stages:
   jobs:
   - deployment: qa_deploy
     pool:
-      vmImage: 'Ubuntu-16.04'
+      vmImage: 'windows-latest'
     environment: 'qa-hello'
     strategy:
       runOnce:
