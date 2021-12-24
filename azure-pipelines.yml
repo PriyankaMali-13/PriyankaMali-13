@@ -6,26 +6,18 @@ stages:
       vmImage: 'windows-latest'
     continueOnError: true
     steps:
-    - script: echo "hello to my first Build"
-- stage: dev_deploy
+    - script: echo "hello to my Build"
+- stage: Dev
   jobs:
-  - deployment: dev_deploy
+  - job: Dev
     pool:
       vmImage: 'windows-latest'
-    environment: 'dev-hello'
-    strategy:
-      runOnce:
-        deploy:
-          steps:
-          - script: echo "hello, dev world !!!"
+    steps:
+    - script: echo "hello to my Dev"
 - stage: qa_deploy
   jobs:
-  - deployment: qa_deploy
+  - job: qa_deploy
     pool:
       vmImage: 'windows-latest'
-    environment: 'qa-hello'
-    strategy:
-      runOnce:
-        deploy:
-          steps:
-          - script: echo "hello, qa world !!!"
+    steps:
+    - script: echo "hello, qa world !!!"
