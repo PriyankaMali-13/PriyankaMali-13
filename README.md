@@ -1,6 +1,6 @@
 ## Hello, I'm Priyanka Mali!👋 
 - 💻 Software Engineer
-- 💪🏻 I’m currently working on developing my programming skills.
+- 💪🏻 Developing my programming skills.
 - 🅰️ MEAN Stack.
 - 🙏🏻 I believe in Sadguru Shree Aniruddha Bapu. #Blessedbybapu
 - 😄 Fun loving and positive.
