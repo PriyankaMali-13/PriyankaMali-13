@@ -1,7 +1,7 @@
 ## Hello, I'm Priyanka Mali!👋 
 - 💻 Software Engineer
 - 💪🏻 Developing my programming skills.
-- 🅰️ MEAN Stack.
+- 🅰️ AWS, Azure DevOps
 - 🙏🏻 I believe in Sadguru Shree Aniruddha Bapu. #Blessedbybapu
 - 😄 Fun loving and positive.
 - 😂 Fun Fact: I spend my half the day on Youtube, Netflix, Voot and Amazon.
