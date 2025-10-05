@@ -1,7 +1,7 @@
 ## Hello, I'm Priyanka Mali!👋 
 - 💻 Software Engineer
 - 💪🏻 Developing my programming skills.
-- 🅰️ AWS, Node JS
+- 🅰️ AWS, Node JS, DevOps, Currently learning AI
 - 🙏🏻 I believe in Sadguru Shree Aniruddha Bapu. #Blessedbybapu
 - 😄 Fun loving and positive.
 
