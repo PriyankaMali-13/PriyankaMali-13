@@ -13,15 +13,14 @@ I work across **AWS and Azure**, and I've learned more from deploying things and
 **AI & Backend**
 - Node.js · Express.js · REST APIs
 - Conversational AI · Chatbot development · LLMs
-- Python
 
 **Cloud & DevOps**
-- AWS (Lambda, S3, API Gateway, EC2)
+- AWS (Lambda, S3, API Gateway, EC2, DynamoDB, IAM, etc....)
 - Azure
 - Git · CI/CD
 
 **Languages**
-- JavaScript · TypeScript · Python · Java · C
+- JavaScript 
 
 ---
 
