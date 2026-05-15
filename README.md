@@ -13,6 +13,7 @@ I work across **AWS and Azure**, and I've learned more from deploying things and
 **AI & Backend**
 - Node.js · Express.js · REST APIs
 - Conversational AI · Chatbot development · LLMs
+- Agentic AI · MCP Integration · Prompt Engineering
 
 **Cloud & DevOps**
 - AWS (Lambda, S3, API Gateway, EC2, DynamoDB, IAM, etc....)
@@ -20,7 +21,13 @@ I work across **AWS and Azure**, and I've learned more from deploying things and
 - Git · CI/CD
 
 **Languages**
-- JavaScript 
+- JavaScript
+
+---
+
+## Certifications
+
+- 🏅 **Claude Certified Architect – Foundations (CCA-F)** — Anthropic Academy *(May 2026)* — [Verify credential](https://verify.skilljar.com/c/qr9i46xxu29x)
 
 ---
 
@@ -44,8 +51,8 @@ Outside of code — cricket, coffee, and good energy. Always.
 ## Let's connect
 
 - 🐦 Twitter: [@Pri_1310](https://twitter.com/Pri_1310)
-- 💼 [LinkedIn](#) *(https://www.linkedin.com/in/priyanka-mali13/)*
-- ✍️ [Medium](#) *(https://medium.com/@priyankamali0000)* — I write about AI as I learn it, no jargon, just real observations from someone in the middle of the journey
+- 💼 [LinkedIn](https://www.linkedin.com/in/priyanka-mali13/)
+- ✍️ [Medium](https://medium.com/@priyankamali0000) — I write about AI as I learn it, no jargon, just real observations from someone in the middle of the journey
 - 📬 Open to collaborations, interesting problems, and good conversations
 
 ---
