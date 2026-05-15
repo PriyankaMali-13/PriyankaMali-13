@@ -1,22 +1,54 @@
-## Hello, I'm Priyanka Mali!👋 
-- 💻 Software Engineer
-- 💪🏻 Developing my programming skills.
-- 🅰️ AWS, Node JS, DevOps, Currently learning AI
-- 🙏🏻 I believe in Sadguru Shree Aniruddha Bapu. #Blessedbybapu
-- 😄 Fun loving and positive.
+# Hey, I'm Priyanka 👋
 
-### Languages and Tools :
+I'm a Software Engineer based in Mumbai who loves building things — and figuring out the hard parts along the way.
 
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+Right now I'm deep into **Conversational AI and chatbots**, and honestly? It's the most exciting space I've worked in. There's something about making a machine actually *understand* what someone means that keeps me hooked. I pair that with solid **Node.js backend work** — designing APIs that are clean, scalable, and don't fall apart under pressure.
 
-<br>
-<br>
+I work across **AWS and Azure**, and I've learned more from deploying things and watching them break than from any tutorial. That's just how I roll.
 
+---
 
-[![Priyanka's github stats](https://github-readme-stats.vercel.app/api?username=PriyankaMali-13&show_icons=true&theme=radical)](https://github.com/PriyankaMali-13/github-readme-stats)
+## What I work with
+
+**AI & Backend**
+- Node.js · Express.js · REST APIs
+- Conversational AI · Chatbot development · LLMs
+- Python
+
+**Cloud & DevOps**
+- AWS (Lambda, S3, API Gateway, EC2)
+- Azure
+- Git · CI/CD
+
+**Languages**
+- JavaScript · TypeScript · Python · Java · C
+
+---
+
+## What I'm up to
+
+- 🤖 Building smarter chatbots and exploring how AI can actually solve real problems
+- 🔧 Sharpening my backend architecture skills — always asking *"will this scale?"*
+- ☁️ Going deeper into cloud-native patterns on AWS
+- 📚 Learning something new every week, no exceptions
+
+---
+
+## A little more about me
+
+I'm the kind of engineer who jumps in, builds a rough version, learns from it, and makes it better. I don't wait until I know everything — I figure it out as I go, and I think that's made me faster and more adaptable than most.
+
+Outside of code — cricket, coffee, and good energy. Always.
+
+---
+
+## Let's connect
+
+- 🐦 Twitter: [@Pri_1310](https://twitter.com/Pri_1310)
+- 💼 [LinkedIn](#) *(https://www.linkedin.com/in/priyanka-mali13/)*
+- ✍️ [Medium](#) *(https://medium.com/@priyankamali0000)* — I write about AI as I learn it, no jargon, just real observations from someone in the middle of the journey
+- 📬 Open to collaborations, interesting problems, and good conversations
+
+---
+
+*"Build it. Break it. Fix it. Repeat."*
